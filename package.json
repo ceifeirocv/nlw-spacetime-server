@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "nlw-spacetime-server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,8 @@
     "dev": "tsx watch src/server.ts",
     "lint": "eslint src --ext .ts --fix"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["Nlw", "rocketseat", "fastify"],
+  "author": "Jair Oliveira",
   "license": "MIT",
   "devDependencies": {
     "@rocketseat/eslint-config": "^1.2.0",
